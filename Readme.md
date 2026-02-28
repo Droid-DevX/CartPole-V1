@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 Contributors names and contact info
 
-* Your Name
+* Ayush (Droid-DevX)
    * GitHub: (https://github.com/Droid-DevX)
 
 ## Version History
