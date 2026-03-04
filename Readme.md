@@ -19,7 +19,7 @@ This project implements an end-to-end reinforcement learning pipeline for traini
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/Droid-DevX/CartPole-V1
+git clone https://github.com/Droid-DevX/CartPole-V1.git
 
 ```
 
